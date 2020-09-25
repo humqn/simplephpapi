@@ -2,4 +2,4 @@
 1. Clone the repository `git clone https://github.com/humqn/simplephpapi.git`
 2. Move to the project directory : `cd simplephpapi/`
 3. Launch the project on port 80 : `docker run -d -p 80:80 -v ${PWD}:/app mattrayner/lamp:latest-1804`
-Now you can access to the project at (http://locahost)
+Now you can access to the project at (http://localhost)
